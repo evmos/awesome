@@ -11,6 +11,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md)
 - [Resources](#resources)
   - [Documentation](#documentation)
   - [Articles](#articles)
+    - [Evmos: rule ‘em all](https://citizen-cosmos.github.io/blog/#evmos-rule-em-all): About the potential benefits and use cases for Ethereum and Cosmos users 
 - [Wallets](#wallets)
   - [EVM wallets](#evm-wallets)
   - [Cosmos Wallets](#cosmos-wallets)
