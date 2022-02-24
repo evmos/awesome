@@ -19,6 +19,8 @@ Please read the [Contributing guide](./CONTRIBUTING.md)
   - [Cosmos Explorers](#cosmos-explorers)
 - [Infrastructure](#infrastructure)
   - [Indexers](#indexers)
+     - [Covalent](https://www.covalenthq.com/docs/networks/evmos/) 
+     - The Graph
   - [Oracles](#oracles)
 - [Ecosystem](#ecosystem)
   - [dApps](#dapps)
