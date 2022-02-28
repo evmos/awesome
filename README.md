@@ -43,6 +43,8 @@ Please read the [Contributing guide](./CONTRIBUTING.md)
 While this Awesome list is one great resource for tracking the growth of the ecosystem, other community members have created additional resources to learn more:
 
 - [Evmos Space](https://evmos.space/)
+- [Messari]()
+- [CoinGecko]()
 
 ## Wallets
 
@@ -75,6 +77,7 @@ Explorers are an important tool for users and developers alike to read and query
 Infrastructure plays an important role for developers to be able to build applications quickly. The following is a list of some of the infrastructure protocols available on Evmos
 
 ### Indexers
+
 - The Graph:
   - [Twitter](https://twitter.com/graphprotocol)
   - Documentation
@@ -99,6 +102,8 @@ Infrastructure plays an important role for developers to be able to build applic
 - Akash Network
   - Website
   - Documentation
+- Ankr
+  - [Website](https://www.ankr.com/)
 - Blockdaemon
   - [Website](https://blockdaemon.com/)
   - [Ubiquity API Docs](ubiquity.docs.blockdaemon.com)
@@ -153,6 +158,12 @@ Infrastructure plays an important role for developers to be able to build applic
   - [Twitter](https://twitter.com/fraxfinance)
   - [Telegram](https://t.me/fraxfinance)
   - [Announcement](https://evmos.blog/frax-is-coming-to-evmos-61837abb2fa9)
+- Kinesis Labs
+  - [App](https://kinesislabs.co/)
+  - [Twitter](https://twitter.com/KinesisLabs)
+  - [Telegram](https://t.me/KinesisLabsPublic)
+  - [Discord](https://discord.gg/2RQtMZeGEF)
+  - [Medium](https://medium.com/@kinesislabs)
 - Metalancer
   - [App](https://t.co/H8ismitzmI)
   - [Twitter](https://twitter.com/metalancer_defi)
@@ -163,6 +174,12 @@ Infrastructure plays an important role for developers to be able to build applic
   - [App](https://photonswap.finance/#/swap)
   - [Twitter](https://twitter.com/photonswap_fi)
   - [Discord](https://discord.gg/JVYXYr6t8q)
+- SpaceFi
+  - [App](https://t.co/Rqhb4bPnjP)
+  - [Twitter](https://twitter.com/spacefi_io)
+- Thorus
+  - [App](https://thorus.fi/)
+  - [Twitter](https://twitter.com/ThorusFI)
 
 #### NFTs & Gaming
 
@@ -172,6 +189,12 @@ Infrastructure plays an important role for developers to be able to build applic
   - [App](https://gamyfi.org/home)
   - [Twitter](https://twitter.com/GamyFi_HQ)
   - [Telegram](https://t.me/GamyFi_ANN)
+- Tofu NFT
+  - [App](https://tofunft.com/evmos)
+  - [Twitter](https://twitter.com/tofuNFT)
+- Treasureland
+  - [App](https://treasureland.market/)
+  - [Twitter](https://twitter.com/TreasurelandNFT)
 
 #### DAOs
 
@@ -181,9 +204,15 @@ Infrastructure plays an important role for developers to be able to build applic
   - [Discord](https://discord.gg/zbtRkB2Se9)
   - [Medium](https://medium.com/@Nova_DAO)
 
-## Devtools
+## Tools
 
-- 
+- Gnosis Safe
+  - [App]()
+  - [Website](https://gnosis-safe.io/)
+  - [Twitter](https://twitter.com/gnosisSafe)
+- Bulk Sender
+  - [App](https://bulksender.app/)
+  - [Telegram](https://t.me/bulksender)
 
 ## Interoperbility
 
