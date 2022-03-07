@@ -38,13 +38,16 @@ Please read the [Contributing guide](./CONTRIBUTING.md)
 
 ### [Evmos Blog](https://evmos.blog)
 
-### Other Ecosystem Maps
+### Other Ecosystem Resources
 
 While this Awesome list is one great resource for tracking the growth of the ecosystem, other community members have created additional resources to learn more:
 
+- [CoinGecko](https://www.coingecko.com/en/coins/evmos)
+- [Commonwealth](https://commonwealth.im/evmos): Commonwealth is an all-in-one platform for on-chain communities to discuss, vote, and fund projects together. Never miss an on-chain event, proposal, or important discussion again.
+- [Cros-nest Dashboard](https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?orgId=1&var-chain_id=evmos_9001-1&refresh=1m)
 - [Evmos Space](https://evmos.space/)
-- [Messari]()
-- [CoinGecko]()
+- [Map of Zones](https://mapofzones.com/)
+- [Messari](https://messari.io/asset/evmos)
 
 ## Wallets
 
@@ -125,6 +128,7 @@ Infrastructure plays an important role for developers to be able to build applic
   - [Website](https://pokt.network)
   - [Twitter](https://twitter.com/POKTnetwork)
   - [Announcement](https://evmos.blog/pocket-network-joins-evmos-to-provide-builders-with-crucial-rpc-node-infrastructure-66616ea7c3ea)
+- [Polkachu Snapshots](https://polkachu.com/tendermint_snapshots/evmos)
 
 ## Ecosystem
 
@@ -132,19 +136,29 @@ Infrastructure plays an important role for developers to be able to build applic
 
 #### DeFi
 
+- Basin Protocol: Liquid Staking for Evmos
+  - App
+  - [Twitter](https://twitter.com/basinprotocol?s=21)
 - Coslend
   - [App]()
   - [Twitter]()
-  - [Telegram](https://t.me/coslend)
 - Cronus Finance: 
   - App
   - [Twitter](https://twitter.com/CronusFinance)
   - [Discord](http://discord.gg/cronusfinance)
+- DForce
+  - [Announcement](https://medium.com/dforcenet/dforce-coming-to-evmos-soon-c8226afa80a0)
 - Diffusion Finance
   - App
   - [Twitter](https://twitter.com/diffusion_fi)
   - [Medium](https://medium.com/@diffusion_fi)
   - [Telegram](https://t.co/zyhlPO5Ucy)
+- Evmos Galaxy
+  - App
+  - [Twitter](https://twitter.com/evmosgalaxy?s=21)
+- Evolidly: The first solidly exchange fork on Evmos
+  - [App]
+  - [Twitter](https://twitter.com/Evolidly)
 - Expanding Space
   - [App](https://expanding.space/)
   - [Twitter](https://twitter.com/expanding_space)
@@ -174,6 +188,20 @@ Infrastructure plays an important role for developers to be able to build applic
   - [App](https://photonswap.finance/#/swap)
   - [Twitter](https://twitter.com/photonswap_fi)
   - [Discord](https://discord.gg/JVYXYr6t8q)
+- Planet DEX
+  - [App]()
+  - [Twitter]()
+- Pulsar Finance
+  - App
+  - [Twitter](https://twitter.com/pulsarfinance_)
+- Quantum Swap
+  - App
+  - [Twitter](https://twitter.com/quantumswap_)
+  - [Discord](http://quantumswap.org/discord)
+- Revest (PENDING)
+  - [App](https://t.co/xgTESVpJwZ)
+  - [Twitter](https://twitter.com/RevestFinance)
+  - [Telegram](https://t.me/revestfinance)
 - SpaceFi
   - [App](https://t.co/Rqhb4bPnjP)
   - [Twitter](https://twitter.com/spacefi_io)
@@ -206,13 +234,17 @@ Infrastructure plays an important role for developers to be able to build applic
 
 ## Tools
 
+- Bulk Sender
+  - [App](https://bulksender.app/)
+  - [Telegram](https://t.me/bulksender)
+- Gelato: Automate your smart contracts. Outsource your web3 DevOps needs and enjoy the perks of Ethereum's most reliable bot network at your fingertips.
+  - [Website](https://www.gelato.network/)
 - Gnosis Safe
   - [App]()
   - [Website](https://gnosis-safe.io/)
   - [Twitter](https://twitter.com/gnosisSafe)
-- Bulk Sender
-  - [App](https://bulksender.app/)
-  - [Telegram](https://t.me/bulksender)
+- Restake App
+  - [App](https://restake.app/evmos)
 
 ## Interoperbility
 
@@ -225,4 +257,5 @@ Infrastructure plays an important role for developers to be able to build applic
 - Nomad & Connext Bridge:
   - [Bridge Portal](https://app.nomad.xyz/)
   - [Nomad Documentation](https://docs.nomad.xyz/)
+  - [Official Nomad Representations](https://docs.nomad.xyz/bridge/domains.html)
   - [Connext Documentation](https://docs.connext.network/)
