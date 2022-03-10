@@ -1,10 +1,12 @@
 # Awesome Evmos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Evmos is a developer-focused, interoperable and scalable blockchain, built on the Cosmos SDK, IBC and Tendermint.
+Evmos is the one of the first [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/)-based blockchains in the [Cosmos](https://cosmos.network/) ecosystem and enables developers to launch apps that run smart contracts across any number of EVM and Cosmos-based blockchains. It makes that process as simple and seamless as possible by allowing developers to continue creating apps in Solidity and Vyper like they’re accustomed to in the Ethereum ecosystem. Evmos opens a new frontier for blockchain applications, expanding the functionality of the EVM by enabling cross-chain applications that tap the liquidity and user bases of multiple blockchain ecosystems to provide more unified experiences.
+
+The below Awesome list is a crowd-sourced list of projects building and supporting the Evmos ecosystem. This list is not an endorsement of any projects and everyone should always do your own research.
 
 ## Contributing
 
-Please read the [Contributing guide](./CONTRIBUTING.md)
+Please read the [Contributing guide](./CONTRIBUTING.md) to add your project or any other projects to the list.
 
 ## Contents
 
@@ -42,12 +44,13 @@ Please read the [Contributing guide](./CONTRIBUTING.md)
 
 While this Awesome list is one great resource for tracking the growth of the ecosystem, other community members have created additional resources to learn more:
 
-- [CoinGecko](https://www.coingecko.com/en/coins/evmos)
+- [CoinGecko](https://www.coingecko.com/en/coins/evmos): World's largest independent cryptocurrency data aggregator.
 - [Commonwealth](https://commonwealth.im/evmos): Commonwealth is an all-in-one platform for on-chain communities to discuss, vote, and fund projects together. Never miss an on-chain event, proposal, or important discussion again.
 - [Cros-nest Dashboard](https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?orgId=1&var-chain_id=evmos_9001-1&refresh=1m)
+- [Defi Llama](https://defillama.com/chain/Evmos): Open and transparent DeFi TVL and analytics.
 - [Evmos Space](https://evmos.space/)
-- [Map of Zones](https://mapofzones.com/)
-- [Messari](https://messari.io/asset/evmos)
+- [Map of Zones](https://mapofzones.com/): Cosmos Ecosystem Explorer
+- [Messari](https://messari.io/asset/evmos): Providing market intelligence that drives high-conviction participation in crypto.
 
 ## Wallets
 
@@ -136,12 +139,21 @@ Infrastructure plays an important role for developers to be able to build applic
 
 #### DeFi
 
+- 4T2: First Convex Fork on Evmos
+  - App
+  - Twitter
+- Astroids Money
+  - App
+  - [Twitter](https://twitter.com/asteroidsmoney)
 - Basin Protocol: Liquid Staking for Evmos
   - App
-  - [Twitter](https://twitter.com/basinprotocol?s=21)
+  - [Twitter](https://twitter.com/basinprotocol)
+- Beanbag Fi
+  - App
+  - [Twitter](https://twitter.com/BeanbagFi)
 - Coslend
-  - [App]()
-  - [Twitter]()
+  - [App](https://coslend.com/)
+  - [Twitter](https://twitter.com/coslend)
 - Cronus Finance: 
   - App
   - [Twitter](https://twitter.com/CronusFinance)
@@ -153,9 +165,21 @@ Infrastructure plays an important role for developers to be able to build applic
   - [Twitter](https://twitter.com/diffusion_fi)
   - [Medium](https://medium.com/@diffusion_fi)
   - [Telegram](https://t.co/zyhlPO5Ucy)
+- Essos Protocol
+  - App
+  - [Twitter](https://twitter.com/Essos_lend)
+- EvDoge
+  - [Website](evdoge.space)
+  - [Twitter](https://twitter.com/EvDogeCosmos)
 - Evmos Galaxy
   - App
   - [Twitter](https://twitter.com/evmosgalaxy?s=21)
+- Evmos Shiba
+  - [Website](https://www.evmosshiba.com/)
+  - [Twitter](https://twitter.com/EvmosShiba)
+- EvmoSwap
+  - App
+  - [Twitter](https://twitter.com/evmoswap)
 - Evolidly: The first solidly exchange fork on Evmos
   - [App]
   - [Twitter](https://twitter.com/Evolidly)
@@ -167,6 +191,9 @@ Infrastructure plays an important role for developers to be able to build applic
 - Exswap: Evmos Exchange Swap (AMM)
   - App
   - [Twitter](https://twitter.com/Exswapdotxyz)
+- Fantastic Swap
+  - App
+  - [Twitter](https://twitter.com/Fantastic_Swap)
 - Frax
   - [App](https://frax.finance/)
   - [Twitter](https://twitter.com/fraxfinance)
@@ -184,6 +211,9 @@ Infrastructure plays an important role for developers to be able to build applic
 - Midas Capital: Cross-chain permissionless lending pools
   - App
   - [Twitter](https://twitter.com/MidasCapita1)
+- Perci Finance: The first Liquity fork on Evmos
+  - App
+  - [Twitter](https://twitter.com/PerciFinance)
 - Photon Swap
   - [App](https://photonswap.finance/#/swap)
   - [Twitter](https://twitter.com/photonswap_fi)
@@ -198,7 +228,7 @@ Infrastructure plays an important role for developers to be able to build applic
   - App
   - [Twitter](https://twitter.com/quantumswap_)
   - [Discord](http://quantumswap.org/discord)
-- Revest (PENDING)
+- Revest
   - [App](https://t.co/xgTESVpJwZ)
   - [Twitter](https://twitter.com/RevestFinance)
   - [Telegram](https://t.me/revestfinance)
@@ -211,8 +241,13 @@ Infrastructure plays an important role for developers to be able to build applic
 
 #### NFTs & Gaming
 
+- Cosmic Horizon
+  - [Website](https://cosmic-horizon.com/)
+  - [Twitter](https://twitter.com/CoHo_Cosmos)
 - Evmos Punks:
   - [Twitter](https://twitter.com/EvmOSPunks)
+- Evmosians
+  - [App](https://evmosians.space/)
 - GamyFi
   - [App](https://gamyfi.org/home)
   - [Twitter](https://twitter.com/GamyFi_HQ)

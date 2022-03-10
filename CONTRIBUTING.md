@@ -4,6 +4,8 @@ Make a pull request against `main`. If the pull request is incomplete, you can s
 
 We encourage everyone building in the ecosystem to make contributions to this repo.
 
+**Regardless of which category you are adding a project to, please continue to keep it in alphabetical order to make it easy for people to search through and avoid duplicates.**
+
 ## Articles & Resources
 
 If you are contributing to the articles or resources section, then the content must be read by two reviewers who agree that it should be included.
