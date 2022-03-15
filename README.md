@@ -252,6 +252,9 @@ Infrastructure plays an important role for developers to be able to build applic
   - [App](https://gamyfi.org/home)
   - [Twitter](https://twitter.com/GamyFi_HQ)
   - [Telegram](https://t.me/GamyFi_ANN)
+- Orbital Apes
+  - App
+  - [Twitter](https://twitter.com/OrbitalApes)
 - Tofu NFT
   - [App](https://tofunft.com/evmos)
   - [Twitter](https://twitter.com/tofuNFT)
@@ -280,6 +283,15 @@ Infrastructure plays an important role for developers to be able to build applic
   - [Twitter](https://twitter.com/gnosisSafe)
 - Restake App
   - [App](https://restake.app/evmos)
+
+## MISC
+
+- EVMNS: Evmos Naming Service .evm
+  - App
+  - [Twitter](https://twitter.com/EvmnsOrg)
+- Evmos Name Service
+  - App
+  - [Twitter](https://twitter.com/EvmosNS)
 
 ## Interoperbility
 
