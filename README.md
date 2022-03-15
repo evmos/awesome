@@ -33,7 +33,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md) to add your project or a
   - [IBC](#ibc)
   - [Bridges](#bridges)
      - [Nomad Bridge]()
-
+ 
 ## Resources
 
 ### [Documentation](https://evmos.dev)
