@@ -191,7 +191,7 @@ Infrastructure plays an important role for developers to be able to build applic
   - [Twitter](https://twitter.com/expanding_space)
   - [Telegram](https://t.me/expandingspace)
   - [Discord](https://t.co/AHNcv2JVbh)
-- Exswap: Evmos Exchange Swap (AMM)
+- Exswap: Defi Hub of Evmos
   - App
   - [Twitter](https://twitter.com/Exswapdotxyz)
   - [Telegram](https://t.me/Exswap)
