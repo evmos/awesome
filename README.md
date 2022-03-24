@@ -142,9 +142,6 @@ Infrastructure plays an important role for developers to be able to build applic
 - 4T2: First Convex Fork on Evmos
   - App
   - [Twitter](https://twitter.com/4T2_finance)
-- AAVE: Lending Protocol
-  -[App](https://aave.com/)
-  -[Twitter](https://twitter.com/AaveAave)
 - Astroids Money
   - App
   - [Twitter](https://twitter.com/asteroidsmoney)
