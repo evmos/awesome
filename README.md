@@ -106,8 +106,8 @@ Infrastructure plays an important role for developers to be able to build applic
 ### Validator and RPC Services
 
 - Akash Network
-  - Website
-  - Documentation
+  - [Website](https://akash.network/)
+  - [Documentation](https://docs.akash.network/)
 - Ankr
   - [Website](https://www.ankr.com/)
 - Blockdaemon
@@ -142,6 +142,9 @@ Infrastructure plays an important role for developers to be able to build applic
 - 4T2: First Convex Fork on Evmos
   - App
   - [Twitter](https://twitter.com/4T2_finance)
+- AAVE: Lending Protocol
+  -[App](https://aave.com/)
+  -[Twitter](https://twitter.com/AaveAave)
 - Astroids Money
   - App
   - [Twitter](https://twitter.com/asteroidsmoney)
