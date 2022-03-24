@@ -164,6 +164,9 @@ Infrastructure plays an important role for developers to be able to build applic
   - App
   - [Twitter](https://twitter.com/CronusFinance)
   - [Discord](http://discord.gg/cronusfinance)
+-DexPad: Multichain LaunchPad
+  -[App](https://dexpad.io/)
+  -[Twitter](https://twitter.com/dexpad)
 - DForce
   - [Announcement](https://medium.com/dforcenet/dforce-coming-to-evmos-soon-c8226afa80a0)
 - Diffusion Finance
