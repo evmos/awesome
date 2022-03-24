@@ -145,6 +145,9 @@ Infrastructure plays an important role for developers to be able to build applic
 - Astroids Money
   - App
   - [Twitter](https://twitter.com/asteroidsmoney)
+- Avelin Protocol: Decentralised OrderBook Exchange and Perps
+  - App
+  - [Twitter](https://twitter.com/AvelinProtocol)
 - Basin Protocol: Liquid Staking for Evmos
   - App
   - [Twitter](https://twitter.com/basinprotocol)
@@ -191,6 +194,9 @@ Infrastructure plays an important role for developers to be able to build applic
 - Exswap: Evmos Exchange Swap (AMM)
   - App
   - [Twitter](https://twitter.com/Exswapdotxyz)
+  - [Telegram](https://t.me/Exswap)
+  - [Discord](https://discord.gg/exswap)
+  - [Medium](https://medium.com/@exswap.xyz)
 - Fantastic Swap
   - App
   - [Twitter](https://twitter.com/Fantastic_Swap)
