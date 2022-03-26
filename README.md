@@ -106,8 +106,8 @@ Infrastructure plays an important role for developers to be able to build applic
 ### Validator and RPC Services
 
 - Akash Network
-  - Website
-  - Documentation
+  - [Website](https://akash.network/)
+  - [Documentation](https://docs.akash.network/)
 - Ankr
   - [Website](https://www.ankr.com/)
 - Blockdaemon
@@ -161,6 +161,9 @@ Infrastructure plays an important role for developers to be able to build applic
   - App
   - [Twitter](https://twitter.com/CronusFinance)
   - [Discord](http://discord.gg/cronusfinance)
+-DexPad: Multichain LaunchPad
+  -[App](https://dexpad.io/)
+  -[Twitter](https://twitter.com/dexpad)
 - DForce
   - [Announcement](https://medium.com/dforcenet/dforce-coming-to-evmos-soon-c8226afa80a0)
 - Diffusion Finance
