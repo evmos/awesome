@@ -244,6 +244,9 @@ Infrastructure plays an important role for developers to be able to build applic
   - [App](https://t.co/xgTESVpJwZ)
   - [Twitter](https://twitter.com/RevestFinance)
   - [Telegram](https://t.me/revestfinance)
+- Saddle Finance
+  - [App](https://saddle.finance/#/)
+  - [Twitter](https://twitter.com/saddlefinance)
 - SpaceFi
   - [App](https://t.co/Rqhb4bPnjP)
   - [Twitter](https://twitter.com/spacefi_io)
