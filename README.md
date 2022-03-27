@@ -154,6 +154,9 @@ Infrastructure plays an important role for developers to be able to build applic
 - Beanbag Fi
   - App
   - [Twitter](https://twitter.com/BeanbagFi)
+- ClouDex: Dex on Evmos
+  - App
+  - [Twitter](https://twitter.com/EvmosCloudEx)
 - Coslend
   - [App](https://coslend.com/)
   - [Twitter](https://twitter.com/coslend)
