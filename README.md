@@ -267,6 +267,9 @@ Infrastructure plays an important role for developers to be able to build applic
 - Orbital Apes
   - App
   - [Twitter](https://twitter.com/OrbitalApes)
+- Orimos Finance: The First Yearn Fork on Evmos
+  - App
+  - [Twitter](https://twitter.com/OrimosFinance)
 - Tofu NFT
   - [App](https://tofunft.com/evmos)
   - [Twitter](https://twitter.com/tofuNFT)
