@@ -145,12 +145,18 @@ Infrastructure plays an important role for developers to be able to build applic
 - Astroids Money
   - App
   - [Twitter](https://twitter.com/asteroidsmoney)
+- Avelin Protocol: Decentralised OrderBook Exchange and Perps
+  - App
+  - [Twitter](https://twitter.com/AvelinProtocol)
 - Basin Protocol: Liquid Staking for Evmos
   - App
   - [Twitter](https://twitter.com/basinprotocol)
 - Beanbag Fi
   - App
   - [Twitter](https://twitter.com/BeanbagFi)
+- ClouDex: Dex on Evmos
+  - App
+  - [Twitter](https://twitter.com/EvmosCloudEx)
 - Coslend
   - [App](https://coslend.com/)
   - [Twitter](https://twitter.com/coslend)
@@ -188,9 +194,12 @@ Infrastructure plays an important role for developers to be able to build applic
   - [Twitter](https://twitter.com/expanding_space)
   - [Telegram](https://t.me/expandingspace)
   - [Discord](https://t.co/AHNcv2JVbh)
-- Exswap: Evmos Exchange Swap (AMM)
+- Exswap: Defi Hub of Evmos
   - App
   - [Twitter](https://twitter.com/Exswapdotxyz)
+  - [Telegram](https://t.me/Exswap)
+  - [Discord](https://discord.gg/exswap)
+  - [Medium](https://medium.com/@exswap.xyz)
 - Fantastic Swap
   - App
   - [Twitter](https://twitter.com/Fantastic_Swap)
@@ -211,6 +220,9 @@ Infrastructure plays an important role for developers to be able to build applic
 - Midas Capital: Cross-chain permissionless lending pools
   - App
   - [Twitter](https://twitter.com/MidasCapita1)
+- Orimos Finance: The First Yearn Fork on Evmos
+  - App
+  - [Twitter](https://twitter.com/OrimosFinance)
 - Perci Finance: The first Liquity fork on Evmos
   - App
   - [Twitter](https://twitter.com/PerciFinance)
@@ -235,6 +247,9 @@ Infrastructure plays an important role for developers to be able to build applic
   - [App](https://t.co/xgTESVpJwZ)
   - [Twitter](https://twitter.com/RevestFinance)
   - [Telegram](https://t.me/revestfinance)
+- Saddle Finance
+  - [App](https://saddle.finance/#/)
+  - [Twitter](https://twitter.com/saddlefinance)
 - SpaceFi
   - [App](https://t.co/Rqhb4bPnjP)
   - [Twitter](https://twitter.com/spacefi_io)
