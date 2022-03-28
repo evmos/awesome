@@ -106,8 +106,8 @@ Infrastructure plays an important role for developers to be able to build applic
 ### Validator and RPC Services
 
 - Akash Network
-  - [Website](https://akash.network/)
-  - [Documentation](https://docs.akash.network/)
+  - Website
+  - Documentation
 - Ankr
   - [Website](https://www.ankr.com/)
 - Blockdaemon
@@ -145,18 +145,12 @@ Infrastructure plays an important role for developers to be able to build applic
 - Astroids Money
   - App
   - [Twitter](https://twitter.com/asteroidsmoney)
-- Avelin Protocol: Decentralised OrderBook Exchange and Perps
-  - App
-  - [Twitter](https://twitter.com/AvelinProtocol)
 - Basin Protocol: Liquid Staking for Evmos
   - App
   - [Twitter](https://twitter.com/basinprotocol)
 - Beanbag Fi
   - App
   - [Twitter](https://twitter.com/BeanbagFi)
-- ClouDex: Dex on Evmos
-  - App
-  - [Twitter](https://twitter.com/EvmosCloudEx)
 - Coslend
   - [App](https://coslend.com/)
   - [Twitter](https://twitter.com/coslend)
@@ -164,9 +158,6 @@ Infrastructure plays an important role for developers to be able to build applic
   - App
   - [Twitter](https://twitter.com/CronusFinance)
   - [Discord](http://discord.gg/cronusfinance)
--DexPad: Multichain LaunchPad
-  -[App](https://dexpad.io/)
-  -[Twitter](https://twitter.com/dexpad)
 - DForce
   - [Announcement](https://medium.com/dforcenet/dforce-coming-to-evmos-soon-c8226afa80a0)
 - Diffusion Finance
@@ -197,12 +188,9 @@ Infrastructure plays an important role for developers to be able to build applic
   - [Twitter](https://twitter.com/expanding_space)
   - [Telegram](https://t.me/expandingspace)
   - [Discord](https://t.co/AHNcv2JVbh)
-- Exswap: Defi Hub of Evmos
+- Exswap: Evmos Exchange Swap (AMM)
   - App
   - [Twitter](https://twitter.com/Exswapdotxyz)
-  - [Telegram](https://t.me/Exswap)
-  - [Discord](https://discord.gg/exswap)
-  - [Medium](https://medium.com/@exswap.xyz)
 - Fantastic Swap
   - App
   - [Twitter](https://twitter.com/Fantastic_Swap)
@@ -232,7 +220,7 @@ Infrastructure plays an important role for developers to be able to build applic
   - [Discord](https://discord.gg/JVYXYr6t8q)
 - Planet DEX
   - [App]()
-  - [Twitter]()
+  - [Twitter](twitter.com/0xPlanet)
 - Plasma Finance
   - App
   - [Twitter](https://twitter.com/PlasmaFinance)
@@ -247,9 +235,6 @@ Infrastructure plays an important role for developers to be able to build applic
   - [App](https://t.co/xgTESVpJwZ)
   - [Twitter](https://twitter.com/RevestFinance)
   - [Telegram](https://t.me/revestfinance)
-- Saddle Finance
-  - [App](https://saddle.finance/#/)
-  - [Twitter](https://twitter.com/saddlefinance)
 - SpaceFi
   - [App](https://t.co/Rqhb4bPnjP)
   - [Twitter](https://twitter.com/spacefi_io)
@@ -273,9 +258,6 @@ Infrastructure plays an important role for developers to be able to build applic
 - Orbital Apes
   - App
   - [Twitter](https://twitter.com/OrbitalApes)
-- Orimos Finance: The First Yearn Fork on Evmos
-  - App
-  - [Twitter](https://twitter.com/OrimosFinance)
 - Tofu NFT
   - [App](https://tofunft.com/evmos)
   - [Twitter](https://twitter.com/tofuNFT)
@@ -307,6 +289,9 @@ Infrastructure plays an important role for developers to be able to build applic
 
 ## MISC
 
+- Evmos Domains
+  - [App](https://evmos.domains/)
+  - [Twitter](https://twitter.com/EvmosDomains)
 - EVMNS: Evmos Naming Service .evm
   - App
   - [Twitter](https://twitter.com/EvmnsOrg)
