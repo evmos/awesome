@@ -174,6 +174,9 @@ Infrastructure plays an important role for developers to be able to build applic
   - [Twitter](https://twitter.com/diffusion_fi)
   - [Medium](https://medium.com/@diffusion_fi)
   - [Telegram](https://t.co/zyhlPO5Ucy)
+- Earnmos: First yield optimizer for Evmos and Cosmos Interchain Ecosystem.
+  - [App](earnmos.fi)
+  - [Twitter](https://twitter.com/Earnmos1)
 - Essos Protocol
   - App
   - [Twitter](https://twitter.com/Essos_lend)
