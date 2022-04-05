@@ -227,6 +227,8 @@ Infrastructure plays an important role for developers to be able to build applic
 - Midas Capital: Cross-chain permissionless lending pools
   - App
   - [Twitter](https://twitter.com/MidasCapita1)
+- Multitransfer
+  - [App](https://multitransfer.org)
 - Orimos Finance: The First Yearn Fork on Evmos
   - App
   - [Twitter](https://twitter.com/OrimosFinance)
