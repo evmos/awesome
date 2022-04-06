@@ -16,7 +16,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md) to add your project or a
 - [Wallets](#wallets)
   - [EVM wallets](#evm-wallets)
   - [Cosmos Wallets](#cosmos-wallets)
-- [Block Explorers](#block-explorers)
+- [Explorers](#explorers)
   - [EVM Explorers](#evm-explorers)
   - [Cosmos Explorers](#cosmos-explorers)
 - [Infrastructure](#infrastructure)
@@ -295,7 +295,7 @@ Infrastructure plays an important role for developers to be able to build applic
   - [Discord](https://discord.gg/zbtRkB2Se9)
   - [Medium](https://medium.com/@Nova_DAO)
 
-## Tools
+## Dev Tools
 
 - Bulk Sender
   - [App](https://bulksender.app/)
@@ -325,7 +325,7 @@ Infrastructure plays an important role for developers to be able to build applic
   - App
   - [Twitter](https://twitter.com/EvmosNS)
 
-## Interoperbility
+## Interoperability
 
 ### IBC
 
