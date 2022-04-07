@@ -138,6 +138,14 @@ Infrastructure plays an important role for developers to be able to build applic
   - [Announcement](https://evmos.blog/pocket-network-joins-evmos-to-provide-builders-with-crucial-rpc-node-infrastructure-66616ea7c3ea)
 - [Polkachu Snapshots](https://polkachu.com/tendermint_snapshots/evmos)
 
+### Auditors
+Auditors are ciritical to ensuring a safe experience for users. The below Auditors have experience with EVM contracts, Cosmos SDK applications, or both.
+
+- Halborn
+  - [Website](https://halborn.com/)
+- Verilog
+  - [Website](https://www.verilog.solutions/)
+
 ## Ecosystem
 
 ### Dapps
@@ -329,6 +337,8 @@ Infrastructure plays an important role for developers to be able to build applic
 - Evmos Name Service
   - App
   - [Twitter](https://twitter.com/EvmosNS)
+- Wrapped Evmos (Official)
+  - [Verified Contract](https://evm.evmos.dev/address/0xcc491f589B45d4a3C679016195B3FB87D7848210)
 
 ## Interoperability
 
