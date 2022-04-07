@@ -57,6 +57,11 @@ While this Awesome list is one great resource for tracking the growth of the eco
 - Evmos.me
   - [Website](https://evmos.me)
   - [Announcement](https://evmos.blog/featuring-evmos-me-an-all-in-one-evmos-portal-da0676f32f28)
+- FoxWallet
+  - [Website](https://foxwallet.com/en)
+  - [Setup Guide](https://hc.foxwallet.com/docs/create-wallet)
+  - [Audit](https://www.certik.com/projects/fox-wallet)
+  - [Twitter](https://twitter.com/FoxWallet)
 - Metamask
   - [Website](https://metamask.io/)
   - [Setup Guide](https://evmos.dev/guides/keys-wallets/metamask.html)
