@@ -310,6 +310,8 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 
 ## Dev Tools
 
+- Black IDE
+  - [App](https://eth.ide.black/local)
 - Bulk Sender
   - [App](https://bulksender.app/)
   - [Telegram](https://t.me/bulksender)
