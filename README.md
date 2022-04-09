@@ -254,6 +254,9 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
   - [Telegram](https://t.me/KinesisLabsPublic)
   - [Discord](https://discord.gg/2RQtMZeGEF)
   - [Medium](https://medium.com/@kinesislabs)
+- Lunar Labs
+  - App
+  - [Twitter](https://twitter.com/Lunarlabs)
 - Metalancer
   - [App](https://t.co/H8ismitzmI)
   - [Twitter](https://twitter.com/metalancer_defi)
