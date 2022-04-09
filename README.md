@@ -13,6 +13,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md) to add your project or a
 - [Resources](#resources)
   - [Documentation](#documentation)
   - [Other Ecosystem Maps](#other-ecosystem-maps)
+  - [Evmos Community Telegram Groups](#evmos-community-telegram-groups)
 - [Wallets](#wallets)
   - [EVM wallets](#evm-wallets)
   - [Cosmos Wallets](#cosmos-wallets)
