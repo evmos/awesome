@@ -334,8 +334,10 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 
 ## Dev Tools
 
-- Black IDE
+- Black IDE by Obsidian Labs
   - [App](https://eth.ide.black/local)
+  - [Twitter](https://twitter.com/obsidian_labs)
+  - [Github](https://github.com/ObsidianLabs/Black-IDE)
 - Bulk Sender
   - [App](https://bulksender.app/)
   - [Telegram](https://t.me/bulksender)
