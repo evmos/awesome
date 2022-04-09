@@ -52,6 +52,26 @@ While this Awesome list is one great resource for tracking the growth of the eco
 - [Map of Zones](https://mapofzones.com/): Cosmos Ecosystem Explorer
 - [Messari](https://messari.io/asset/evmos): Providing market intelligence that drives high-conviction participation in crypto.
 
+### Evmos Community Telegram Groups
+
+The only official Evmos telegram group is @EvmosOrg but there are many more unofficial group chats maintained by community members for special purposes or specific language groups.
+
+- 🌍Global: [@Evmosorg](https://t.me/EvmosOrg) - Official
+- 📣 Announcement: [@EvmosAnnouncements](https://t.me/EvmosAnnouncements)
+- 🇷🇺Russian: [@evmos_ru](https://t.me/evmos_ru)
+- 🇪🇸Spanish: [@Evmos_ES](https://t.me/evmos_es)
+- 🇹🇷Turkish: [@evmos_tr](https://t.me/evmos_tr)
+- 🇨🇳Chinese: [@evmos_zh](https://t.me/evmos_zh)
+- 🇰🇷Korean: [@EvmosKorea](https://t.me/EvmosKorea)
+- 🇧🇩Bengali: [@evmosBangladesh](https://t.me/EvmosBangladesh)
+- 🇩🇪German: [@EvmosDE](https://t.me/EvmosDE)
+- 🇮🇹Italia: [@EvmosITA](https://t.me/EvmosITA)
+- 🇫🇷France: [@Evmos_Fra](https://t.me/Evmos_Fra)
+- 🇻🇳Vietnamese: [@Evmos_VN](https://t.me/Evmos_VN)
+- 🇮🇳India: [@EvmosIndia](https://t.me/EvmosIndia)
+- 🇮🇩Indonesia: [@Evmos_ID](https://t.me/Evmos_ID)
+- 🇮🇷Persian: [@Evmos_PR](https://t.me/Evmos_PR)
+
 ## Wallets
 
 - Evmos.me
