@@ -124,6 +124,12 @@ Infrastructure plays an important role for developers to be able to build applic
 
 ### Oracles
 
+- Band Protocol
+  - [Website](https://bandprotocol.com/)
+  - [Documentation](https://docs.bandchain.org/)
+- Flux
+  - [Website](https://www.fluxprotocol.org/)
+  - [Documentation](https://docs.fluxprotocol.org/docs/getting-started/first-party-oracle/fpo-requesters#get-requesting)
 - UMA
   - [Website](https://umaproject.org/)
   - [Twitter](https://twitter.com/umaprotocol)
@@ -153,6 +159,7 @@ Infrastructure plays an important role for developers to be able to build applic
   - [Website](https://figment.io)
   - [Twitter](https://twitter.com/Figment_io)
   - [Announcement](https://evmos.blog/figment-is-supporting-crucial-blockchain-infrastructure-on-evmos-4df7408fe567)
+- [Mercury Snapshots](https://mercury-nodes.net/evmos-snapshot/)
 - POKT
   - [Website](https://pokt.network)
   - [Twitter](https://twitter.com/POKTnetwork)
@@ -306,6 +313,9 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 - Cosmic Horizon
   - [Website](https://cosmic-horizon.com/)
   - [Twitter](https://twitter.com/CoHo_Cosmos)
+- Evmos Explorers
+  - App
+  - [Twitter](https://twitter.com/evmosexplorers)
 - Evmos Punks:
   - [Twitter](https://twitter.com/EvmOSPunks)
 - Evmosians
