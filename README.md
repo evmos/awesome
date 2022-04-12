@@ -126,7 +126,7 @@ Infrastructure plays an important role for developers to be able to build applic
 
 - Band Protocol
   - [Website](https://bandprotocol.com/)
-  - [Documentation](https://docs.bandchain.org/)
+  - [Documentation](https://docs.bandchain.org/band-standard-dataset/supported-blockchains.html)
 - Flux
   - [Website](https://www.fluxprotocol.org/)
   - [Documentation](https://docs.fluxprotocol.org/docs/getting-started/first-party-oracle/fpo-requesters#get-requesting)
