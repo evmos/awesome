@@ -15,8 +15,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md) to add your project or a
   - [Other Ecosystem Maps](#other-ecosystem-maps)
   - [Evmos Community Telegram Groups](#evmos-community-telegram-groups)
 - [Wallets](#wallets)
-  - [EVM wallets](#evm-wallets)
-  - [Cosmos Wallets](#cosmos-wallets)
+  - [Onramps and Exchanges](#onramps-and-exchanges)
 - [Explorers](#explorers)
   - [EVM Explorers](#evm-explorers)
   - [Cosmos Explorers](#cosmos-explorers)
@@ -89,6 +88,10 @@ The only official Evmos telegram group is @EvmosOrg but there are many more unof
 - Keplr
   - [Website](https://www.keplr.app/)
   - [Setup Guide](https://evmos.dev/guides/keys-wallets/keplr.html)
+
+### Onramps and Exchanges
+
+- 
 
 ## Explorers
 
