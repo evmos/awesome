@@ -52,6 +52,7 @@ While this Awesome list is one great resource for tracking the growth of the eco
 - [Evmos Space](https://evmos.space/)
 - [Map of Zones](https://mapofzones.com/): Cosmos Ecosystem Explorer
 - [Messari](https://messari.io/asset/evmos): Providing market intelligence that drives high-conviction participation in crypto.
+- [Reddit](https://evmos.reddit.com)
 
 ### Evmos Community Telegram Groups
 
