@@ -360,6 +360,7 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
   - [App]()
   - [Website](https://gnosis-safe.io/)
   - [Twitter](https://twitter.com/gnosisSafe)
+  - [Testnet Deployment](https://protofire.evmos.dev/welcome)
 - Multitransfer: Airdrop Tool
   - [App](https://multitransfer.org)
   - [Twitter](https://twitter.com/Multitransfer1)
