@@ -337,7 +337,7 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 
 #### DAOs
 
-
+- 
 
 ### Launchpads, Incubators, Accelerators and Ecosystem Supporters
 
