@@ -59,7 +59,7 @@ The only official Evmos telegram group is @EvmosOrg but there are many more unof
 - 🌍Global: [@Evmosorg](https://t.me/EvmosOrg) - Official
 - 📣 Announcement: [@EvmosAnnouncements](https://t.me/EvmosAnnouncements)
 - 🇷🇺Russian: [@evmos_ru](https://t.me/evmos_ru)
-- 🇪🇸Spanish: [@Evmos_ES](https://t.me/evmos_es)
+- 🇪🇸Spanish: [@Evmos_ESP](https://t.me/Evmos_ESP)
 - 🇹🇷Turkish: [@evmos_tr](https://t.me/evmos_tr)
 - 🇨🇳Chinese: [@evmos_zh](https://t.me/evmos_zh)
 - 🇰🇷Korean: [@EvmosKorea](https://t.me/EvmosKorea)
