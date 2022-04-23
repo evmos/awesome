@@ -28,6 +28,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md) to add your project or a
     - [DeFi](#defi)
     - [NFTs](#nfts)
     - [DAOs](#daos)
+  - [Launchpads, Incubators, Accelerators and Ecosystem Supporters](#launchpads,-incubators,-accelerators-and-ecosystem-supporters)
 - [Dev Tools](#dev-tools)
 - [Interoperability](#interoperability)
   - [IBC](#ibc)
@@ -208,9 +209,6 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
   - App
   - [Twitter](https://twitter.com/CronusFinance)
   - [Discord](http://discord.gg/cronusfinance)
-- DexPad: Multichain LaunchPad
-  - [App](https://dexpad.io/)
-  - [Twitter](https://twitter.com/dexpad)
 - DForce
   - [Announcement](https://medium.com/dforcenet/dforce-coming-to-evmos-soon-c8226afa80a0)
 - Diffusion Finance
@@ -339,6 +337,16 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 
 #### DAOs
 
+
+
+### Launchpads, Incubators, Accelerators and Ecosystem Supporters
+
+- DexPad: Multichain LaunchPad
+  - [App](https://dexpad.io/)
+  - [Twitter](https://twitter.com/dexpad)
+- Layer2 Pad
+  - [Website](https://l2pad.io/)
+  - [Twitter](https://twitter.com/l2pad_io)
 - NovaDAO
   - App
   - [Twitter](https://twitter.com/NovaDaoFinance)
