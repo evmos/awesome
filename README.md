@@ -365,10 +365,9 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 - Gelato: Automate your smart contracts. Outsource your web3 DevOps needs and enjoy the perks of Ethereum's most reliable bot network at your fingertips.
   - [Website](https://www.gelato.network/)
 - Gnosis Safe
-  - [App]()
+  - [Testnet App](https://protofire.evmos.dev/welcome)
   - [Website](https://gnosis-safe.io/)
   - [Twitter](https://twitter.com/gnosisSafe)
-  - [Testnet Deployment](https://protofire.evmos.dev/welcome)
 - Multitransfer: Airdrop Tool
   - [App](https://multitransfer.org)
   - [Twitter](https://twitter.com/Multitransfer1)
