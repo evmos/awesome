@@ -108,6 +108,7 @@ Explorers are an important tool for users and developers alike to read and query
 
 - [Official Evmos EVM Explorer](https://evm.evmos.dev/)
 - [Mintscan](https://testnet.mintscan.io/evmos-testnet)
+- [Big Dipper](https://testnet.evmos.bigdipper.live/)
 
 ## Infrastructure
 
