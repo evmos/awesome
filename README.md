@@ -332,6 +332,9 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
   - [App](https://gamyfi.org/home)
   - [Twitter](https://twitter.com/GamyFi_HQ)
   - [Telegram](https://t.me/GamyFi_ANN)
+- Orbit Market
+  - App
+  - [Twitter](https://twitter.com/OrbitMarketOS)
 - Orbital Apes
   - App
   - [Twitter](https://twitter.com/OrbitalApes)
