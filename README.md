@@ -401,7 +401,8 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
   - App
   - [Twitter](https://twitter.com/EvmosNS)
 - Wrapped Evmos (Official)
-  - [Verified Contract](https://evm.evmos.dev/address/0xcc491f589B45d4a3C679016195B3FB87D7848210)
+  - [Mainnet Verified Contract](https://evm.evmos.org/address/0xD4949664cD82660AaE99bEdc034a0deA8A0bd517/contracts)
+  - [Testnet Verified Contract](https://evm.evmos.dev/address/0xcc491f589B45d4a3C679016195B3FB87D7848210)
 
 ## Interoperability
 
