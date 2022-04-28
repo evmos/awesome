@@ -183,6 +183,7 @@ The following list includes companies that provide services to run Validators an
   - [Twitter](https://twitter.com/POKTnetwork)
   - [Announcement](https://evmos.blog/pocket-network-joins-evmos-to-provide-builders-with-crucial-rpc-node-infrastructure-66616ea7c3ea)
 - [Polkachu Snapshots](https://polkachu.com/tendermint_snapshots/evmos)
+- [Stakingcare Snapshots](https://snapshots.stakingcare.com/evmos/)
 
 ### Auditors
 Auditors are ciritical to ensuring a safe experience for users. The below Auditors have experience with EVM contracts, Cosmos SDK applications, or both.
