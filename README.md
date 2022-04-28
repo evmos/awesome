@@ -6,7 +6,7 @@ Evmos is the one of the first [Ethereum Virtual Machine](https://ethereum.org/en
 
 ## Contributing
 
-Please read the [Contributing guide](./CONTRIBUTING.md) to add your project or any other projects to the list.
+Please read the [Contributing guide](./CONTRIBUTING.md) to add your project or any other projects to the list. **Please make sure to add your project in alphabetical order within it's given section!**
 
 ## Contents
 
