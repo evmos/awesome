@@ -176,6 +176,7 @@ The following list includes companies that provide services to run Validators an
   - [Twitter](https://twitter.com/Figment_io)
   - [Announcement](https://evmos.blog/figment-is-supporting-crucial-blockchain-infrastructure-on-evmos-4df7408fe567)
 - [Mercury Snapshots](https://mercury-nodes.net/evmos-snapshot/)
+- [Notional Snapshots](https://snapshot.notional.ventures/evmos/)
 - POKT
   - [Website](https://pokt.network)
   - [Twitter](https://twitter.com/POKTnetwork)
