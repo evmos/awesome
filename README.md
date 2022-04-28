@@ -316,7 +316,7 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 - Saddle Finance
   - [App](https://saddle.finance/#/)
   - [Twitter](https://twitter.com/saddlefinance)
-- SpaceFi
+- SpaceFi: SpaceFi is a cross-chain Web 3.0 platform with DEX, NFT, Starter and DAO on Evmos, Layer2 and Celo.
   - [App](https://t.co/Rqhb4bPnjP)
   - [Twitter](https://twitter.com/spacefi_io)
 - Thorus
