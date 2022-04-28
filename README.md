@@ -74,6 +74,7 @@ The only official Evmos telegram group is @EvmosOrg but there are many more unof
 - 🇮🇳India: [@EvmosIndia](https://t.me/EvmosIndia)
 - 🇮🇩Indonesia: [@Evmos_ID](https://t.me/Evmos_ID)
 - 🇮🇷Persian: [@Evmos_PR](https://t.me/Evmos_PR)
+- 🇳🇬Nigeria: [@Evmos_NG](https://t.me/Evmos_NG)
 
 ## Wallets
 
