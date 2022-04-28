@@ -327,6 +327,10 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 - Cosmic Horizon
   - [Website](https://cosmic-horizon.com/)
   - [Twitter](https://twitter.com/CoHo_Cosmos)
+- EVMHops
+  - App
+  - [Twitter](https://twitter.com/EvmHop)
+  - [Medium](https://medium.com/@evmhops/evm-hop-a08ec1523041)
 - Evmos Explorers
   - App
   - [Twitter](https://twitter.com/evmosexplorers)
