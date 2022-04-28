@@ -49,6 +49,7 @@ While this Awesome list is one great resource for tracking the growth of the eco
 - [Cros-nest Dashboard](https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?orgId=1&var-chain_id=evmos_9001-1&refresh=1m)
 - [Defi Llama](https://defillama.com/chain/Evmos): Open and transparent DeFi TVL and analytics.
   - You can add your Evmos Project to the list by following [these instructions](https://docs.llama.fi/list-your-project/how-to-write-an-sdk-adapter) and replacing `bsc` with `evmos`.
+- [Dex Screener](https://dexscreener.com/evmos)
 - [Evmos Space](https://evmos.space/)
 - [Map of Zones](https://mapofzones.com/): Cosmos Ecosystem Explorer
 - [Messari](https://messari.io/asset/evmos): Providing market intelligence that drives high-conviction participation in crypto.
