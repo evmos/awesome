@@ -2,7 +2,7 @@
 
 Evmos is the one of the first [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/)-based blockchains in the [Cosmos](https://cosmos.network/) ecosystem and enables developers to launch apps that run smart contracts across any number of EVM and Cosmos-based blockchains. It makes that process as simple and seamless as possible by allowing developers to continue creating apps in Solidity and Vyper like they’re accustomed to in the Ethereum ecosystem. Evmos opens a new frontier for blockchain applications, expanding the functionality of the EVM by enabling cross-chain applications that tap the liquidity and user bases of multiple blockchain ecosystems to provide more unified experiences.
 
-> **The below Awesome list is a crowd-sourced list of projects building and supporting the Evmos ecosystem. This list is not an endorsement of any projects and everyone should always do your own research.**
+> **The below Awesome list is a crowd-sourced list of projects building and supporting the Evmos ecosystem. This list is not an endorsement of any projects and everyone should always do your own research. Only notes in this indented format are official recommendations from the Evmos team.**
 
 ## Contributing
 
@@ -419,6 +419,7 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 - 
 
 ### Bridges
+> The recommended bridge for Evmos users is the Nomad bridge which also leverages Connext for liquidity. While there are other bridges, Nomad and Connext offer an optimal balance between security and UX as well as bring value in other ways to the network. Of course, Evmos is a permissionless network allowing users and devs to choose their bridge provider on Evmos based on their differentiators: security, speed, fragmentation, etc. With that said, the team is focussed on simplifying bridging UX by closely collaborating with Nomad and Connext at launch to reduce fragmentation.
 
 - Nomad & Connext Bridge:
   - [Bridge Portal](https://app.nomad.xyz/)
