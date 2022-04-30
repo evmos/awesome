@@ -247,7 +247,7 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
   - [Twitter](https://twitter.com/Earnmos1)
   - [Medium](https://medium.com/@market_55417)
 - EvDoge: Community token
-  - [Website](evdoge.space)
+  - [Website](https://evdoge.space)
   - [Twitter](https://twitter.com/EvDogeCosmos)
   - [Discord](https://discord.gg/6emn3xcNCD)
 - Evmos Galaxy: Lending and borrowing protocol
@@ -309,7 +309,7 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 - Saddle Finance: AMM for swapping low-slippage pegged assets
   - [App](https://saddle.finance/#/)
   - [Twitter](https://twitter.com/saddlefinance)
-  - [Discord](http://discord.gg/saddle)
+  - [Discord](https://discord.gg/saddle)
 - SpaceFi: SpaceFi is a cross-chain Web 3.0 platform with DEX, NFT, Starter and DAO on Evmos, Layer2 and Celo.
   - [App](https://t.co/Rqhb4bPnjP)
   - [Twitter](https://twitter.com/spacefi_io)
