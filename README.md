@@ -426,4 +426,5 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
   - [Nomad Documentation](https://docs.nomad.xyz/)
   - [Official Nomad Representations](https://docs.nomad.xyz/bridge/domains.html)
   - [Connext Documentation](https://docs.connext.network/)
+  - [Connextscan](https://connextscan.io/evmos): View liquidity of Evmos on Connext.
   - [Nomad Ethereum Statistics](https://dune.com/0xroll/Nomad-Bridge-Ethereum)
