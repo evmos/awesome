@@ -182,6 +182,7 @@ The following list includes companies that provide services to run Validators an
   - [Website](https://pokt.network)
   - [Twitter](https://twitter.com/POKTnetwork)
   - [Announcement](https://evmos.blog/pocket-network-joins-evmos-to-provide-builders-with-crucial-rpc-node-infrastructure-66616ea7c3ea)
+- [AM Solutions State-Sync / Snapshots](https://www.theamsolutions.info/evmos-services)
 - [Polkachu Snapshots](https://polkachu.com/tendermint_snapshots/evmos)
 - [Stakingcare Snapshots](https://snapshots.stakingcare.com/evmos/)
 
