@@ -272,6 +272,10 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
   - [Telegram](https://t.me/Exswap)
   - [Discord](https://discord.gg/exswap)
   - [Medium](https://medium.com/@exswap.xyz)
+- Fantastic Swap
+  - App
+  - [Twitter](https://twitter.com/Fantastic_Swap)
+  - [Discord](http://discord.gg/tNW3fndAST)
 - Frax: fractional-algorithmic stablecoin
   - [App](https://frax.finance/)
   - [Twitter](https://twitter.com/fraxfinance)
@@ -283,6 +287,9 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
   - [Telegram](https://t.me/KinesisLabsPublic)
   - [Discord](https://discord.gg/2RQtMZeGEF)
   - [Medium](https://medium.com/@kinesislabs)
+- Midas Capital: Cross-chain permissionless lending pools
+  - App
+  - [Twitter](https://twitter.com/MidasCapitalxyz)
 - Orimos Finance: The First Yearn Fork on Evmos
   - App
   - [Twitter](https://twitter.com/OrimosFinance)
