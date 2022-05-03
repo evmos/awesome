@@ -441,10 +441,16 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 ### Bridges
 > The recommended bridge for Evmos users is the Nomad bridge which also leverages Connext for liquidity. While there are other bridges, Nomad and Connext offer an optimal balance between security and UX as well as bring value in other ways to the network. Of course, Evmos is a permissionless network allowing users and devs to choose their bridge provider on Evmos based on their differentiators: security, speed, fragmentation, etc. With that said, the team is focussed on simplifying bridging UX by closely collaborating with Nomad and Connext at launch to reduce fragmentation.
 
+> **Any questions/issues you have about using bridging services please use their respective discord for. The Evmos team is not responsible for or able to help with customer service for bridge operations.**
+
 - Nomad & Connext Bridge:
   - [Bridge Portal](https://app.nomad.xyz/)
-  - [Nomad Documentation](https://docs.nomad.xyz/)
-  - [Official Nomad Representations](https://docs.nomad.xyz/bridge/domains.html)
-  - [Connext Documentation](https://docs.connext.network/)
-  - [Connextscan](https://connextscan.io/evmos): View liquidity of Evmos on Connext.
-  - [Nomad Ethereum Statistics](https://dune.com/0xroll/Nomad-Bridge-Ethereum)
+  - Nomad Specifics
+    - [Nomad Documentation](https://docs.nomad.xyz/)
+    - [Official Nomad Representations](https://docs.nomad.xyz/bridge/domains.html)
+    - [Nomad Ethereum Statistics](https://dune.com/0xroll/Nomad-Bridge-Ethereum)
+    - [Nomad Discord](https://discord.gg/nomadxyz)
+  - Connext Specifics
+    - [Connext Documentation](https://docs.connext.network/)
+    - [Connextscan](https://connextscan.io/evmos): View liquidity of Evmos on Connext.
+    - [Connext Discord](https://discord.gg/connext)
