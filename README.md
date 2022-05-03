@@ -50,7 +50,8 @@ While this Awesome list is one great resource for tracking the growth of the eco
 - [Defi Llama](https://defillama.com/chain/Evmos): Open and transparent DeFi TVL and analytics.
   - You can add your Evmos Project to the list by following [these instructions](https://docs.llama.fi/list-your-project/how-to-write-an-sdk-adapter) and replacing `bsc` with `evmos`.
 - [Dex Screener](https://dexscreener.com/evmos)
-- [Evmos Space](https://evmos.space/)
+- [Evmos Info](https://evmos.info/): Project discovery portal tracking all the latest projects on Evmos
+- [Evmos Space](https://evmos.space/): Project discovery portal tracking all the latest projects on Evmos
 - [Map of Zones](https://mapofzones.com/): Cosmos Ecosystem Explorer
 - [Messari](https://messari.io/asset/evmos): Providing market intelligence that drives high-conviction participation in crypto.
 - [Reddit](https://evmos.reddit.com)
@@ -203,33 +204,43 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 
 - 4T2: First Convex Fork on Evmos
   - App
-  - [Twitter](https://twitter.com/4T2_finance)
-- Astroids Money
+  - [Twitter](https://twitter.com/4T2Finance)
+  - [Medium](https://medium.com/@4T2)
+  - [Discord](https://discord.gg/DBSCz4GjVa)
+- Astroids Money: Algorithmic stable coin 
   - App
   - [Twitter](https://twitter.com/asteroidsmoney)
+  - [Telegram](https://t.me/asteroidsmoney)
 - Avelin Protocol: Decentralised OrderBook Exchange and Perps
   - App
   - [Twitter](https://twitter.com/AvelinProtocol)
 - Basin Protocol: Liquid Staking for Evmos
   - App
   - [Twitter](https://twitter.com/basinprotocol)
-- Beanbag Fi
+  - [Discord](http://discord.gg/FHnYVWYZtz)
+- Beanbag Fi: Stablecoin protocol
   - App
   - [Twitter](https://twitter.com/BeanbagFi)
 - ClouDex: Dex on Evmos
   - App
   - [Twitter](https://twitter.com/EvmosCloudEx)
-- Coslend
+  - [Medium](https://medium.com/@CloudEx)
+- Coslend: The Money Market of Cosmos Ecosystem
   - [App](https://coslend.com/)
   - [Twitter](https://twitter.com/coslend)
-- Cronus Finance: 
-  - App
+  - [Telegram](https://t.me/coslend)
+- Cronus Finance: AMM Dex
+  - [App](https://cronusfinance.xyz/)
   - [Twitter](https://twitter.com/CronusFinance)
+  - [Medium](https://medium.com/@cronusfinance)
   - [Discord](http://discord.gg/cronusfinance)
-- DForce
+- DForce: decentralized finance protocols covering assets, lending, and trading
   - [Announcement](https://medium.com/dforcenet/dforce-coming-to-evmos-soon-c8226afa80a0)
-- Diffusion Finance
-  - App
+  - [App](https://dforce.network/)
+  - [Twitter](https://twitter.com/dForcenet)
+  - [Discord](https://discord.com/invite/c2PC8SM)
+- Diffusion Finance: Evmos AMM based on Uniswap
+  - [App](https://diffusion.fi/)
   - [Twitter](https://twitter.com/diffusion_fi)
   - [Medium](https://medium.com/@diffusion_fi)
   - [Telegram](https://t.co/zyhlPO5Ucy)
@@ -237,26 +248,23 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
   - [App](earnmos.fi)
   - [Twitter](https://twitter.com/Earnmos1)
   - [Medium](https://medium.com/@market_55417)
-- Essos Protocol
-  - App
-  - [Twitter](https://twitter.com/Essos_lend)
-- EvDoge
-  - [Website](evdoge.space)
+- EvDoge: Community token
+  - [Website](https://evdoge.space)
   - [Twitter](https://twitter.com/EvDogeCosmos)
-- Evmos Galaxy
+  - [Discord](https://discord.gg/6emn3xcNCD)
+- Evmos Galaxy: Lending and borrowing protocol
   - App
-  - [Twitter](https://twitter.com/evmosgalaxy?s=21)
-- Evmos Shiba
+  - [Twitter](https://twitter.com/evmosgalaxy)
+- Evmos Shiba: Community-centered meme token 
   - [Website](https://www.evmosshiba.com/)
   - [Twitter](https://twitter.com/EvmosShiba)
-- EvmoSwap
-  - App
+  - [Discord](https://discord.gg/xGwWYk5DGg)
+- EvmoSwap: EvmoSwap is a AMM DEX on Evmos
+  - [App](https://app.evmoswap.org/swap)
   - [Twitter](https://twitter.com/evmoswap)
-- Evolidly: The first solidly exchange fork on Evmos
-  - [App]
-  - [Twitter](https://twitter.com/Evolidly)
-- Expanding Space
-  - [App](https://expanding.space/)
+  - [Discord](https://discord.gg/cEp53UXPw3)
+- Expanding Space: NFT marketplace
+  - App
   - [Twitter](https://twitter.com/expanding_space)
   - [Telegram](https://t.me/expandingspace)
   - [Discord](https://t.co/AHNcv2JVbh)
@@ -269,95 +277,96 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 - Fantastic Swap
   - App
   - [Twitter](https://twitter.com/Fantastic_Swap)
-- Frax
+  - [Discord](http://discord.gg/tNW3fndAST)
+- Frax: fractional-algorithmic stablecoin
   - [App](https://frax.finance/)
   - [Twitter](https://twitter.com/fraxfinance)
   - [Telegram](https://t.me/fraxfinance)
   - [Announcement](https://evmos.blog/frax-is-coming-to-evmos-61837abb2fa9)
-- Kinesis Labs
+- Kinesis Labs: Stablecoins on Cosmos
   - [App](https://kinesislabs.co/)
   - [Twitter](https://twitter.com/KinesisLabs)
   - [Telegram](https://t.me/KinesisLabsPublic)
   - [Discord](https://discord.gg/2RQtMZeGEF)
   - [Medium](https://medium.com/@kinesislabs)
-- Lunar Labs
-  - App
-  - [Twitter](https://twitter.com/Lunarlabs)
-- Metalancer
-  - [App](https://t.co/H8ismitzmI)
-  - [Twitter](https://twitter.com/metalancer_defi)
 - Midas Capital: Cross-chain permissionless lending pools
   - App
-  - [Twitter](https://twitter.com/MidasCapita1)
+  - [Twitter](https://twitter.com/MidasCapitalxyz)
 - Orimos Finance: The First Yearn Fork on Evmos
   - App
   - [Twitter](https://twitter.com/OrimosFinance)
 - Perci Finance: The first Liquity fork on Evmos
   - App
   - [Twitter](https://twitter.com/PerciFinance)
-- Photon Swap
+  - [Discord](https://discord.gg/Fh8EwbUzPx)
+- Photon Swap: AMM based on Uniswap
   - [App](https://photonswap.finance/#/swap)
   - [Twitter](https://twitter.com/photonswap_fi)
   - [Discord](https://discord.gg/JVYXYr6t8q)
-- Planet DEX
-  - [App]()
-  - [Twitter](twitter.com/0xPlanet)
-- Plasma Finance
-  - App
-  - [Twitter](https://twitter.com/PlasmaFinance)
-- Pulsar Finance
-  - App
+- Pulsar Finance: Isolated Money Markets
+  - [App](https://pulsarfinance.io/)
   - [Twitter](https://twitter.com/pulsarfinance_)
-- Quantum Swap
-  - App
+  - [Discord](https://discord.gg/Pw4RAVCR97)
+- Quantum Swap:Decentralized exchange
+  - [App](https://www.quantumswap.org/)
   - [Twitter](https://twitter.com/quantumswap_)
   - [Discord](http://quantumswap.org/discord)
-- Revest
-  - [App](https://t.co/xgTESVpJwZ)
+- Revest: Financial NFTs
+  - [App](https://revest.finance/)
   - [Twitter](https://twitter.com/RevestFinance)
   - [Telegram](https://t.me/revestfinance)
-- Saddle Finance
+- Saddle Finance: AMM for swapping low-slippage pegged assets
   - [App](https://saddle.finance/#/)
   - [Twitter](https://twitter.com/saddlefinance)
+  - [Discord](https://discord.gg/saddle)
 - SpaceFi: SpaceFi is a cross-chain Web 3.0 platform with DEX, NFT, Starter and DAO on Evmos, Layer2 and Celo.
   - [App](https://t.co/Rqhb4bPnjP)
   - [Twitter](https://twitter.com/spacefi_io)
-- Thorus
+  - [Discord](https://discord.gg/WDtuwbYRXE)
+- Thorus: All in one cross-chain #DeFi platform
   - [App](https://thorus.fi/)
   - [Twitter](https://twitter.com/ThorusFI)
+  - [Discord](https://discord.gg/thorusfi)
 
 #### NFTs & Gaming
 
-- Cosmic Horizon
+- Cosmic Horizon: Elite Space Trading game built on Cosmos SDK
   - [Website](https://cosmic-horizon.com/)
   - [Twitter](https://twitter.com/CoHo_Cosmos)
-- EVMHops
+  - [Discord](https://discord.gg/GTWQCMKvud)
+- EVMHops: Evmos based P2E game
   - App
   - [Twitter](https://twitter.com/EvmHop)
   - [Medium](https://medium.com/@evmhops/evm-hop-a08ec1523041)
-- Evmos Explorers
-  - App
+  - [Discord](https://discord.gg/evmhops)
+- Evmos Explorers: 10k pfp Evmos explorers project 
+  - [Website](https://evmosexplorers.com/)
   - [Twitter](https://twitter.com/evmosexplorers)
-- Evmos Punks:
+  - [Discord](https://discord.gg/wtsutGCguG)
+- Evmos Punks:Punks on Evmos
+  - [Website](https://ospunks.com/)   
   - [Twitter](https://twitter.com/EvmOSPunks)
-- Evmosians
-  - [App](https://evmosians.space/)
-- GamyFi
+  - [Discord](https://discord.com/invite/XjSN8k22ue)
+- GamyFi: GamyFi platform is a fantasy sports platform and NFT marketplace
   - [App](https://gamyfi.org/home)
   - [Twitter](https://twitter.com/GamyFi_HQ)
   - [Telegram](https://t.me/GamyFi_ANN)
-- Orbit Market
-  - App
+- Orbit Market: NFT Marketplace on Evmos. Built by OrbitalApes
+  - [Website](https://www.orbitmarket.io/)
   - [Twitter](https://twitter.com/OrbitMarketOS)
-- Orbital Apes
-  - App
+  - [Discord](http://discord.gg/orbitalapes)
+- Orbital Apes: Orbital Apes NFT & P2E game
+  - [Website](https://www.orbitalapes.com/)
   - [Twitter](https://twitter.com/OrbitalApes)
-- Tofu NFT
+  - [Discord](http://discord.gg/orbitalapes)
+- Tofu NFT: NFT marketplace focused on GameFi and collectibles
   - [App](https://tofunft.com/evmos)
   - [Twitter](https://twitter.com/tofuNFT)
-- Treasureland
+  - [Discord](https://discord.gg/3wFUTZmTm7)
+- Treasureland: Treasureland is a cross-chain NFT platform
   - [App](https://treasureland.market/)
   - [Twitter](https://twitter.com/TreasurelandNFT)
+  - [Discord](https://discord.gg/jjf7Uxm4rM)
 
 #### DAOs
 
@@ -368,10 +377,12 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 - DexPad: Multichain LaunchPad
   - [App](https://dexpad.io/)
   - [Twitter](https://twitter.com/dexpad)
-- Layer2 Pad
+  - [Discord](https://t.me/DexPad_IO)
+- Layer2 Pad: Quadratic VC DAO and Public Goods Launchpad
   - [Website](https://l2pad.io/)
   - [Twitter](https://twitter.com/l2pad_io)
-- NovaDAO
+  - [Telegram](https://t.me/l2pad_comm)
+- NovaDAO: Decentralized reserve currency
   - App
   - [Twitter](https://twitter.com/NovaDaoFinance)
   - [Discord](https://discord.gg/zbtRkB2Se9)
@@ -383,11 +394,13 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
   - [App](https://eth.ide.black/local)
   - [Twitter](https://twitter.com/obsidian_labs)
   - [Github](https://github.com/ObsidianLabs/Black-IDE)
-- Bulk Sender
+- Bulk Sender:  DAPP used to send tokens to many addresses in one transaction
   - [App](https://bulksender.app/)
   - [Telegram](https://t.me/bulksender)
 - Gelato: Automate your smart contracts. Outsource your web3 DevOps needs and enjoy the perks of Ethereum's most reliable bot network at your fingertips.
   - [Website](https://www.gelato.network/)
+  - [Twitter](https://twitter.com/gelatonetwork)
+  - [Discord](https://discord.gg/ApbA39BKyJ)
 - Gnosis Safe
   - [Testnet App](https://protofire.evmos.dev/welcome)
   - [Website](https://gnosis-safe.io/)
@@ -398,21 +411,26 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
   - [Telegram](https://t.me/mutitransfer)
 - Restake App
   - [App](https://restake.app/evmos)
+  - [Twitter](https://twitter.com/eco_stake)
+  - [Discord](https://discord.gg/SAn2ZF3GJH)
 
 ## MISC
 
-- Evmos Domains
+- Evmos Domains: Decentralized name service 
   - [App](https://evmos.domains/)
   - [Twitter](https://twitter.com/EvmosDomains)
+  - [Discord](https://chat.evmos.domains/)
 - EVMNS: Evmos Naming Service .evm
   - App
   - [Twitter](https://twitter.com/EvmnsOrg)
 - Evmos Name Service
-  - App
+  - [App](https://evmosnameservice.com/)
   - [Twitter](https://twitter.com/EvmosNS)
+  - [Telegram](https://t.me/evmosns)
 - Wrapped Evmos (Official)
   - [Mainnet Verified Contract](https://evm.evmos.org/address/0xD4949664cD82660AaE99bEdc034a0deA8A0bd517/contracts)
   - [Testnet Verified Contract](https://evm.evmos.dev/address/0xcc491f589B45d4a3C679016195B3FB87D7848210)
+
 
 ## Interoperability
 
