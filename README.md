@@ -401,8 +401,8 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
   - [Website](https://www.gelato.network/)
   - [Twitter](https://twitter.com/gelatonetwork)
   - [Discord](https://discord.gg/ApbA39BKyJ)
-- Gnosis Safe
-  - [Testnet App](https://protofire.evmos.dev/welcome)
+- Gnosis Safe: A fully customizable trusted multisig.
+  - [Testnet App](https://safe.evmos.dev/)
   - [Website](https://gnosis-safe.io/)
   - [Twitter](https://twitter.com/gnosisSafe)
 - Multitransfer: Airdrop Tool
