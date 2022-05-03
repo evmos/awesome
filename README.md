@@ -159,6 +159,8 @@ The following list includes companies that provide services to run Validators an
   - Documentation
 - Ankr
   - [Website](https://www.ankr.com/)
+- AM Solutions services
+  - [State sync, shrinked Data snap, RPC, API](https://www.theamsolutions.info/evmos-services)
 - Blockdaemon
   - [Website](https://blockdaemon.com/)
   - [Ubiquity API Docs](ubiquity.docs.blockdaemon.com)
