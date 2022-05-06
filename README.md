@@ -447,6 +447,7 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 - Nomad & Connext Bridge:
   - [Bridge Portal](https://app.nomad.xyz/)
   - Nomad Specifics
+    - [Bridging Guide](https://docs.nomad.xyz/partners/nomad-bridging-to-evmos.html)
     - [Nomad Documentation](https://docs.nomad.xyz/)
     - [Official Nomad Representations](https://docs.nomad.xyz/bridge/domains.html)
     - [Nomad Ethereum Statistics](https://dune.com/0xroll/Nomad-Bridge-Ethereum)
