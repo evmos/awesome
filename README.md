@@ -414,6 +414,8 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
   - [App](https://restake.app/evmos)
   - [Twitter](https://twitter.com/eco_stake)
   - [Discord](https://discord.gg/SAn2ZF3GJH)
+- Sourcify: Contract Verification
+  - [Website](https://sourcify.dev/verifier)
 
 ## MISC
 
