@@ -97,7 +97,10 @@ The only official Evmos telegram group is @EvmosOrg but there are many more unof
 
 ### Onramps and Exchanges
 
-- 
+- Digifinex
+  - [Website](https://www.Digifinex.com/)
+  - [Twitter](https://twitter.com/DigiFinex)
+  - [Telegram](https://t.me/DigiFinexEN) 
 
 ## Explorers
 
