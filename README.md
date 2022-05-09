@@ -253,9 +253,6 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
   - [Website](https://evdoge.space)
   - [Twitter](https://twitter.com/EvDogeCosmos)
   - [Discord](https://discord.gg/6emn3xcNCD)
-- Evmos Galaxy: Lending and borrowing protocol
-  - App
-  - [Twitter](https://twitter.com/evmosgalaxy)
 - Evmos Shiba: Community-centered meme token 
   - [Website](https://www.evmosshiba.com/)
   - [Twitter](https://twitter.com/EvmosShiba)
