@@ -59,7 +59,7 @@ While this Awesome list is one great resource for tracking the growth of the eco
 
 ### Evmos Guides and How Tos
 
-- 
+- [ERC20 Module Guide](https://www.notion.so/ERC20-Module-Guide-6488d023f74a4b91a4b2ac036da6cc49): A step-by-step guide for how to whitelist assets with the ERC20 module which makes it possible to convert Cosmos Coins to ERC20 format tokens and vise-versa.
 
 ### Evmos Community Telegram Groups
 
