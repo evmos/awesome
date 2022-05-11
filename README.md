@@ -57,6 +57,10 @@ While this Awesome list is one great resource for tracking the growth of the eco
 - [Messari](https://messari.io/asset/evmos): Providing market intelligence that drives high-conviction participation in crypto.
 - [Reddit](https://evmos.reddit.com)
 
+### Evmos Guides and How Tos
+
+- 
+
 ### Evmos Community Telegram Groups
 
 The only official Evmos telegram group is @EvmosOrg but there are many more unofficial group chats maintained by community members for special purposes or specific language groups.
@@ -126,7 +130,7 @@ Infrastructure plays an important role for developers to be able to build applic
 
 ### Indexers
 
-- The Graph:
+- The Graph [Coming Soon]
   - [Twitter](https://twitter.com/graphprotocol)
   - Documentation
 - Covalent: 
@@ -137,6 +141,7 @@ Infrastructure plays an important role for developers to be able to build applic
   - [Website](https://kyve.network)
   - [Twitter](https://twitter.com/KYVENetwork)
   - [Announcement](https://evmos.blog/decentralizing-blockchain-data-with-kyve-564acef3c806)
+  - [Documentation]()
 
 ### Oracles
 
@@ -160,8 +165,8 @@ The following list includes companies that provide services to run Validators an
 > Official RPC Endpoints provided by the Evmos Foundation and Ecosystem Partners can be found [here](https://evmos.dev/api/connect.html).
 
 - Akash Network
-  - Website
-  - Documentation
+  - [Website](https://akash.network/)
+  - [Documentation](https://github.com/chalabi2/akt-evmos): Guide for Running an Evmos Validator on Akash. Thank you to Chandra Station for creating the guide.
 - Ankr
   - [Website](https://www.ankr.com/)
 - AM Solutions services
