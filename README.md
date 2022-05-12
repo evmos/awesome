@@ -215,6 +215,7 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 - 4T2: First Convex Fork on Evmos
   - App
   - [Twitter](https://twitter.com/4T2Finance)
+  - [Documentation](https://docs.4t2.finance/welcome/)
   - [Medium](https://medium.com/@4T2)
   - [Discord](https://discord.gg/DBSCz4GjVa)
 - Astroids Money: Algorithmic stable coin 
