@@ -79,7 +79,7 @@ The only official Evmos telegram group is @EvmosOrg but there are many more unof
 - 🇫🇷France: [@Evmos_Fra](https://t.me/Evmos_Fra)
 - 🇻🇳Vietnamese: [@Evmos_VN](https://t.me/Evmos_VN)
 - 🇮🇳India: [@EvmosIndia](https://t.me/EvmosIndia)
-- 🇮🇩Indonesia: Coming soon. Don't trust any current groups.
+- 🇮🇩Indonesia: [@Evmos_Indonesia](https://t.me/Evmos_Indonesia)
 - 🇮🇷Persian: [@Evmos_PR](https://t.me/Evmos_PR)
 - 🇳🇬Nigeria: [@Evmos_NG](https://t.me/Evmos_NG)
 
