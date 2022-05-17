@@ -155,6 +155,7 @@ Infrastructure plays an important role for developers to be able to build applic
 - Flux
   - [Website](https://www.fluxprotocol.org/)
   - [Documentation](https://docs.fluxprotocol.org/docs/getting-started/first-party-oracle/fpo-requesters#get-requesting)
+  - [Supported Price Feeds](https://docs.fluxprotocol.org/docs/live-data-feeds/fpo-live-networks-and-pairs#evmos)
 - UMA
   - [Website](https://umaproject.org/)
   - [Twitter](https://twitter.com/umaprotocol)
