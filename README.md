@@ -44,6 +44,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md) to add your project or a
 
 While this Awesome list is one great resource for tracking the growth of the ecosystem, other community members have created additional resources to learn more:
 
+- [Block Spot](https://blockspot.io/coin/wrapped-evmos/)
 - [CoinGecko](https://www.coingecko.com/en/coins/evmos): World's largest independent cryptocurrency data aggregator.
 - [CoinMarketCap](https://coinmarketcap.com/currencies/evmos/)
 - [Commonwealth](https://commonwealth.im/evmos): Commonwealth is an all-in-one platform for on-chain communities to discuss, vote, and fund projects together. Never miss an on-chain event, proposal, or important discussion again.
