@@ -23,6 +23,8 @@ Please read the [Contributing guide](./CONTRIBUTING.md) to add your project or a
   - [Indexers](#indexers)
   - [Oracles](#oracles)
   - [Validator and RPC Services](#Validator-and-RPC-Services)
+  - [Custodians](#custodians)
+  - [Auditors](#auditors)
 - [Ecosystem](#ecosystem)
   - [dApps](#dapps)
     - [DeFi](#defi)
@@ -201,6 +203,11 @@ The following list includes companies that provide services to run Validators an
   - [Announcement](https://evmos.blog/pocket-network-joins-evmos-to-provide-builders-with-crucial-rpc-node-infrastructure-66616ea7c3ea)
 - [Polkachu Snapshots](https://polkachu.com/tendermint_snapshots/evmos)
 - [Stakingcare Snapshots](https://snapshots.stakingcare.com/evmos/)
+
+### Custodians
+
+- Fireblocks: Fireblocks is a digital asset custody, transfer and settlement platform. MPC-CMP wallet technology. 24/7 access.
+  - [Website](https://www.fireblocks.com/)
 
 ### Auditors
 Auditors are ciritical to ensuring a safe experience for users. The below Auditors have experience with EVM contracts, Cosmos SDK applications, or both.
