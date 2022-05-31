@@ -221,6 +221,12 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 ## Ecosystem
 
 ### Dapps
+- AirLyft by Kyte: App to Build, Scale & Engage Web3.0 Communities
+  - App (Coming soon on Evmos)
+  - [Website](https://www.airlyft.one)
+  - [Twitter](https://twitter.com/airlyftone)
+  - [Telegram](https://t.me/kyteone)
+  - [Medium](https://kyteone.medium.com/)
 
 #### DeFi
 
