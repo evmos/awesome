@@ -230,6 +230,12 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
   - [Documentation](https://docs.4t2.finance/welcome/)
   - [Medium](https://medium.com/@4T2)
   - [Discord](https://discord.gg/DBSCz4GjVa)
+- AirLyft by Kyte: Build, Scale & Engage Web3.0 Communities
+  - App
+  - [Website](https://www.airlyft.one)
+  - [Twitter](https://twitter.com/airlyftone)
+  - [Telegram](https://t.me/kyteone)
+  - [Medium](https://kyteone.medium.com/)
 - Astroids Money: Algorithmic stable coin 
   - App
   - [Twitter](https://twitter.com/asteroidsmoney)
@@ -437,7 +443,6 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
   - [Website](https://sourcify.dev/verifier)
 
 ## MISC
-
 - Evmos Domains: Decentralized name service 
   - [App](https://evmos.domains/)
   - [Twitter](https://twitter.com/EvmosDomains)
