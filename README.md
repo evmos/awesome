@@ -52,6 +52,7 @@ While this Awesome list is one great resource for tracking the growth of the eco
 - [CoinMarketCap](https://coinmarketcap.com/currencies/evmos/)
 - [Commonwealth](https://commonwealth.im/evmos): Commonwealth is an all-in-one platform for on-chain communities to discuss, vote, and fund projects together. Never miss an on-chain event, proposal, or important discussion again.
 - [Cosmospug Airdrop Dashboard](https://cosmospug.com/airdrops/?coins=evmos): Easily keep track of the latest Airdrops in the Evmos ecosystem.
+- [Cosmos Directory](https://cosmos.directory/evmos)
 - [Cros-nest Dashboard](https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?orgId=1&var-chain_id=evmos_9001-1&refresh=1m)
 - [Defi Llama](https://defillama.com/chain/Evmos): Open and transparent DeFi TVL and analytics.
   - You can add your Evmos Project to the list by following [these instructions](https://docs.llama.fi/list-your-project/how-to-write-an-sdk-adapter) and replacing `bsc` with `evmos`.
