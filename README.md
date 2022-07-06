@@ -424,6 +424,10 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 - Bulk Sender:  DAPP used to send tokens to many addresses in one transaction
   - [App](https://bulksender.app/)
   - [Telegram](https://t.me/bulksender)
+- EvmosJS
+  - [Github](https://github.com/evmos/evmosjs)
+- EvmosWallet (Pythong)
+  - [Documentation](https://pypi.org/project/evmoswallet/)
 - Gelato: Automate your smart contracts. Outsource your web3 DevOps needs and enjoy the perks of Ethereum's most reliable bot network at your fingertips.
   - [Website](https://www.gelato.network/)
   - [Twitter](https://twitter.com/gelatonetwork)
