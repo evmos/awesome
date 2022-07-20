@@ -100,6 +100,9 @@ The only official Evmos telegram group is @EvmosOrg but there are many more unof
   - [Setup Guide](https://hc.foxwallet.com/docs/create-wallet)
   - [Audit](https://www.certik.com/projects/fox-wallet)
   - [Twitter](https://twitter.com/FoxWallet)
+- MathWallet
+  - [Website](https://mathwallet.org)
+  - [Twitter](https://twitter.com/MathWallet)
 - Metamask
   - [Website](https://metamask.io/)
   - [Setup Guide](https://evmos.dev/guides/keys-wallets/metamask.html)
