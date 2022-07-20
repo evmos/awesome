@@ -116,6 +116,13 @@ The only official Evmos telegram group is @EvmosOrg but there are many more unof
   - [Website](https://www.Digifinex.com/)
   - [Twitter](https://twitter.com/DigiFinex)
   - [Telegram](https://t.me/DigiFinexEN) 
+- Huobi
+  - [Website](https://www.huobi.com/en-us/exchange/evmos_usdt/)
+  - [Twitter](https://twitter.com/HuobiGlobal)
+  - [Telegram](https://t.me/huobiglobalofficial)
+- MEXC
+  - [Website](https://www.mexc.com/exchange/EVMOS_USDT)
+  - [Twitter](https://twitter.com/MEXC_Global)
 
 ## Explorers
 
