@@ -134,6 +134,7 @@ Explorers are an important tool for users and developers alike to read and query
 - [Mintscan](https://mintscan.com/evmos/): Developed by the Cosmostation, the Mintscan explorer supports the most Cosmos chains available including Evmos. It currently only supports Cosmos transactions but EVM transactions are on the roadmap.
 - [EvmoStats](https://evmostats.io/): Developed by DragonStake, the Evmostats dashboard offers historical and live data of network infrastructure such as validator bonded status, EVM transactions and governance proposals. 
 - [Defier](https://defier.net/evmos/validators): The most detailed dashboard for tracking validators.
+- [NG Explorer](https://evmos.explorers.guru)
 
 ### Testnet Explorers
 
@@ -141,6 +142,7 @@ Explorers are an important tool for users and developers alike to read and query
 - [Mintscan](https://testnet.mintscan.io/evmos-testnet)
 - [Big Dipper](https://testnet.evmos.bigdipper.live/)
 - [EvmoStats](https://testnet.evmostats.io/)
+- [NG Explorer](https://testnet.evmos.explorers.guru)
 
 ## Infrastructure
 
