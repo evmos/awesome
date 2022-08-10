@@ -409,7 +409,10 @@ Auditors are ciritical to ensuring a safe experience for users. The below Audito
 
 #### DAOs
 
-- 
+- OwlDAO: Top 1 Web 3.0 Casino with More than 4000 Games
+  - [App](https://owldao.io/)
+  - [Telegram](https://t.me/owlDAO)
+  - [Twitter](https://twitter.com/OWLDAOio)
 
 ### Launchpads, Incubators, Accelerators and Ecosystem Supporters
 
